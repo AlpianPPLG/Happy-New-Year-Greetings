@@ -18,16 +18,6 @@ function timeLeft() {
   return remainingTime
 }
 
-// container
-// align-items: center
-// display: flex
-// justify-content: center
-// gap: 4px
-// flex-direction: column;
-// min-height: 100vh;
-// margin: 4px
-// font-size: (1rem = 4px) jadi jika 4xl maka 4 x 4 = 16px, 4xl merupakan ukuran huruf yang paling besar dalam skala ini
-// text-color: white / #FFF
   return (
     <>
       <Particles 
@@ -50,5 +40,5 @@ function timeLeft() {
     </>
   );
 }
-// z-index: 50
+
 export default App;
